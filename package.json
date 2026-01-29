@@ -10,15 +10,7 @@
   "author": "lxgicstudios",
   "license": "MIT",
   "keywords": [
-    "compound",
-    "engineering", 
-    "learning",
-    "memory",
-    "agents",
-    "clawdbot",
-    "moltbot",
-    "automation",
-    "ai"
+    "ai", "compound-engineering", "learning", "memory", "agents", "clawdbot", "moltbot", "automation", "ai-memory", "knowledge-base", "developer-tools", "cli", "typescript", "nodejs", "llm"
   ],
   "repository": {
     "type": "git",
