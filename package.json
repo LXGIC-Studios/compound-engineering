@@ -2,18 +2,51 @@
   "name": "compound-engineering",
   "version": "1.0.0",
   "description": "Make your AI agent learn and improve automatically - extract learnings, update memory, compound knowledge",
-  "type": "module",
   "main": "index.js",
   "bin": {
     "compound-engineering": "./cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "keywords": [
+    "ai",
+    "compound-engineering",
+    "learning",
+    "memory",
+    "agents",
+    "clawdbot",
+    "moltbot",
+    "automation",
+    "ai-memory",
+    "knowledge-base",
+    "developer-tools",
+    "cli",
+    "typescript",
+    "nodejs",
+    "llm"
+  ],
   "author": "lxgicstudios",
   "license": "MIT",
-  "keywords": [
-    "ai", "compound-engineering", "learning", "memory", "agents", "clawdbot", "moltbot", "automation", "ai-memory", "knowledge-base", "developer-tools", "cli", "typescript", "nodejs", "llm"
-  ],
+  "homepage": "https://github.com/LXGIC-Studios/compound-engineering#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/LXGIC-Studios/compound-engineering"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/compound-engineering/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "type": "module"
 }
