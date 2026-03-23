@@ -32,7 +32,7 @@
   "homepage": "https://github.com/LXGIC-Studios/compound-engineering#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/compound-engineering"
+    "url": "git+https://github.com/LXGIC-Studios/compound-engineering.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/compound-engineering/issues"
