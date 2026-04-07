@@ -1,5 +1,5 @@
 {
-  "name": "compound-engineering",
+  "name": "@lxgicstudios/compound-engineering",
   "version": "1.0.0",
   "description": "Make your AI agent learn and improve automatically - extract learnings, update memory, compound knowledge",
   "main": "index.js",
