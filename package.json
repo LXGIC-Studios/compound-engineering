@@ -1,41 +1,51 @@
 {
   "name": "@lxgicstudios/compound-engineering",
   "version": "1.0.0",
-  "description": "Make your AI agent learn and improve automatically - extract learnings, update memory, compound knowledge",
+  "description": "AI-powered compound engineering - automatic learning and improvement for AI agents",
   "main": "index.js",
   "bin": {
     "compound-engineering": "./cli.js"
   },
   "files": [
     "dist",
+    "index.d.ts",
     "README.md"
   ],
   "keywords": [
-    "ai",
-    "compound-engineering",
-    "learning",
-    "memory",
+    "2025-standards",
     "agents",
-    "clawdbot",
-    "moltbot",
-    "automation",
+    "ai",
+    "ai-2025",
     "ai-memory",
-    "knowledge-base",
-    "developer-tools",
+    "automation",
+    "clawdbot",
     "cli",
-    "typescript",
+    "compound-engineering",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "knowledge-base",
+    "learning",
+    "llm",
+    "modern-seo",
     "nodejs",
-    "llm"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "productivity",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "lxgicstudios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/compound-engineering#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-compound#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/compound-engineering.git"
+    "url": "https://github.com/LXGIC-Studios/ai-compound"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/compound-engineering/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-compound/issues"
   },
   "funding": {
     "type": "github",
@@ -48,5 +58,6 @@
     "access": "public",
     "provenance": true
   },
-  "type": "module"
+  "type": "module",
+  "types": "index.d.ts"
 }
