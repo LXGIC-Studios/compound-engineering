@@ -12,40 +12,29 @@
     "README.md"
   ],
   "keywords": [
-    "2025-standards",
-    "agents",
     "ai",
-    "ai-2025",
-    "ai-memory",
-    "automation",
-    "clawdbot",
     "cli",
-    "compound-engineering",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "knowledge-base",
-    "learning",
-    "llm",
-    "modern-seo",
+    "typescript",
     "nodejs",
-    "optimization",
+    "automation",
+    "AI-powered",
+    "AI-optimized",
     "performance",
-    "performance-optimization",
-    "productivity",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "lxgicstudios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-compound#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-compound#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-compound"
+    "url": "https://github.com/lxgicstudios/ai-compound"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-compound/issues"
+    "url": "https://github.com/lxgicstudios/ai-compound/issues"
   },
   "funding": {
     "type": "github",
