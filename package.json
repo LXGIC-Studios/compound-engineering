@@ -1,52 +1,56 @@
 {
-  "name": "@lxgicstudios/compound-engineering",
-  "version": "1.0.0",
-  "description": "AI-powered compound engineering - automatic learning and improvement for AI agents",
-  "main": "index.js",
+  "author": "lxgicstudios",
   "bin": {
     "compound-engineering": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/lxgicstudios/ai-compound/issues"
+  },
+  "description": "AI-powered compound engineering - automatic learning and improvement for AI agents",
+  "engines": {
+    "node": ">=18.0.0"
   },
   "files": [
     "dist",
     "index.d.ts",
     "README.md"
   ],
-  "keywords": [
-    "ai",
-    "cli",
-    "typescript",
-    "nodejs",
-    "automation",
-    "AI-powered",
-    "AI-optimized",
-    "performance",
-    "optimization",
-    "seo",
-    "discoverability",
-    "2025-standards",
-    "modern-seo"
-  ],
-  "author": "lxgicstudios",
-  "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-compound#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-compound"
-  },
-  "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-compound/issues"
-  },
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "engines": {
-    "node": ">=18.0.0"
-  },
+  "homepage": "https://github.com/lxgicstudios/ai-compound#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@lxgicstudios/compound-engineering",
   "publishConfig": {
     "access": "public",
     "provenance": true
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-compound"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
   "type": "module",
-  "types": "index.d.ts"
+  "types": "index.d.ts",
+  "version": "1.0.0"
 }
