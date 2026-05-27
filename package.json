@@ -1,5 +1,9 @@
 {
-  "author": "lxgicstudios",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "compound-engineering": "./cli.js"
   },
@@ -24,6 +28,8 @@
     "AI-optimized",
     "AI-powered",
     "ai",
+    "ai-optimized",
+    "ai-powered",
     "automation",
     "best-practices",
     "cli",
