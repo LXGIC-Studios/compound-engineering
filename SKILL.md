@@ -1,5 +1,5 @@
 ---
-name: compound-engineering
+name: ai-compound
 description: Make your AI agent learn and improve automatically. Reviews sessions, extracts learnings, updates memory files, and compounds knowledge over time. Set up nightly review loops that make your agent smarter every day.
 version: 1.0.0
 author: lxgicstudios
@@ -18,13 +18,13 @@ Make your AI agent learn automatically. Extract learnings from sessions, update 
 
 ```bash
 # Review last 24 hours and update memory
-npx compound-engineering review
+npx ai-compound review
 
 # Create hourly memory snapshot
-npx compound-engineering snapshot
+npx ai-compound snapshot
 
 # Set up automated nightly review (cron)
-npx compound-engineering setup-cron
+npx ai-compound setup-cron
 ```
 
 ---

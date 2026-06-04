@@ -5,7 +5,7 @@
     "url": "https://lxgic.com"
   },
   "bin": {
-    "compound-engineering": "./cli.js"
+    "ai-compound": "./cli.js"
   },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-compound/issues"
@@ -44,7 +44,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "@lxgicstudios/compound-engineering",
+  "name": "@lxgicstudios/ai-compound",
   "publishConfig": {
     "access": "public",
     "provenance": true
