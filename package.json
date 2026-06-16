@@ -8,7 +8,7 @@
     "ai-compound": "./cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-compound/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "description": "AI-powered compound engineering - automatic learning and improvement for AI agents",
   "engines": {
@@ -23,26 +23,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-compound#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-compound",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic-automation",
-    "ai",
-    "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "compound-interest",
+    "financial",
+    "calculator",
+    "investment",
+    "math"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -53,7 +40,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-compound"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-compound"
   },
   "scripts": {
     "build": "tsc"
