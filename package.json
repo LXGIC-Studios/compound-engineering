@@ -39,10 +39,7 @@
     "financial",
     "gpt",
     "investment",
-    "june-2026-core-update",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "june-2026-core-update"
   ],
   "license": "MIT",
   "main": "index.js",
